@@ -8,3 +8,8 @@
 ![alt text](https://github.com/AntonKurapov66/gitlab-hw2/blob/main/img/1.PNG)
 
 ### Задание 2
+файл gitlab-ci.yml , был взят из подсказок к заданию 
+![alt text](https://github.com/AntonKurapov66/gitlab-hw2/blob/main/img/2_1.PNG)
+
+скриншот с успешной сборкой
+![alt text](https://github.com/AntonKurapov66/gitlab-hw2/blob/main/img/2_2.PNG)
